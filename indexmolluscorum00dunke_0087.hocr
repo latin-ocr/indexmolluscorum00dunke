@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./indexmolluscorum00dunke_0087.png"; bbox 0 0 2246 3104; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1814 206 1951 242">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1814 206 1951 242">
+     <span class='ocr_line' id='line_1_1' title="bbox 1814 206 1951 242; baseline 0.022 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1814 206 1864 240; x_wconf 47' lang='lat'>&#39;1¹³1</span> <span class='ocrx_word' id='word_1_2' title='bbox 1872 207 1896 242; x_wconf 70' lang='lat' dir='ltr'>b,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1907 208 1937 242; x_wconf 82' lang='lat' dir='ltr'>Ill</span> <span class='ocrx_word' id='word_1_4' title='bbox 1948 239 1951 242; x_wconf 71' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 284 396 2069 2661">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 284 396 2069 2661">
+     <span class='ocr_line' id='line_1_2' title="bbox 284 396 2069 2661; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 284 396 2069 2661; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1964 2869 2021 2898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1964 2869 2021 2898">
+     <span class='ocr_line' id='line_1_3' title="bbox 1964 2869 2021 2898; baseline 0.018 -10"><span class='ocrx_word' id='word_1_6' title='bbox 1964 2869 2021 2898; x_wconf 29' lang='grc' dir='ltr'>,μγ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1760 2866 1954 2896">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1760 2866 1954 2896">
+     <span class='ocr_line' id='line_1_4' title="bbox 1760 2866 1954 2896; baseline -0.005 -1"><span class='ocrx_word' id='word_1_7' title='bbox 1760 2866 1882 2896; x_wconf 51' lang='grc' dir='ltr'>’Ἃιυοάωη</span> <span class='ocrx_word' id='word_1_8' title='bbox 1913 2868 1954 2896; x_wconf 39' lang='lat' dir='ltr'>Vm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1642 2866 1731 2896">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1642 2866 1731 2896">
+     <span class='ocr_line' id='line_1_5' title="bbox 1642 2866 1731 2896; baseline 0.034 -5"><span class='ocrx_word' id='word_1_9' title='bbox 1642 2866 1731 2896; x_wconf 53' lang='lat' dir='ltr'>mm&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1496 2862 1616 2892">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1496 2862 1616 2892">
+     <span class='ocr_line' id='line_1_6' title="bbox 1496 2862 1616 2892; baseline 0.025 -3"><span class='ocrx_word' id='word_1_10' title='bbox 1496 2862 1531 2889; x_wconf 54' lang='lat' dir='ltr'>Fu&gt;</span> <span class='ocrx_word' id='word_1_11' title='bbox 1555 2878 1564 2890; x_wconf 66' lang='grc' dir='ltr'>ε’</span> <span class='ocrx_word' id='word_1_12' title='bbox 1573 2863 1601 2892; x_wconf 46' lang='lat' dir='ltr'>ff&amp;</span> <span class='ocrx_word' id='word_1_13' title='bbox 1608 2879 1616 2883; x_wconf 64' lang='lat'>¹·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
